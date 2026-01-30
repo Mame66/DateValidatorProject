@@ -2,19 +2,19 @@ name: CI
 
 on:
   push:
-    branches: [ "main" ]  # ou "master" selon ton repo
+    branches: [ "main" ]  # ou "master"
 
 jobs:
   build:
     runs-on: ubuntu-latest
 
     steps:
-    - uses: actions/checkout@v3   # récupère ton code
+    - uses: actions/checkout@v3
 
     - name: Setup .NET
       uses: actions/setup-dotnet@v3
       with:
-        dotnet-version: '7.0.x'   # adapte selon ta version
+        dotnet-version: '8.0.x'   # version correspond à net8.0
 
     - name: Restore dependencies
       run: dotnet restore
