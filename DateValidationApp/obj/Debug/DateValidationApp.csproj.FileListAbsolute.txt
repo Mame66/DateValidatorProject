@@ -1,0 +1,6 @@
+C:\Users\SOSF\source\repos\DateValidationApp\DateValidationApp\bin\Debug\DateValidationApp.dll
+C:\Users\SOSF\source\repos\DateValidationApp\DateValidationApp\bin\Debug\DateValidationApp.pdb
+C:\Users\SOSF\source\repos\DateValidationApp\DateValidationApp\obj\Debug\DateValidationApp.csproj.AssemblyReference.cache
+C:\Users\SOSF\source\repos\DateValidationApp\DateValidationApp\obj\Debug\DateValidationApp.csproj.CoreCompileInputs.cache
+C:\Users\SOSF\source\repos\DateValidationApp\DateValidationApp\obj\Debug\DateValidationApp.dll
+C:\Users\SOSF\source\repos\DateValidationApp\DateValidationApp\obj\Debug\DateValidationApp.pdb
